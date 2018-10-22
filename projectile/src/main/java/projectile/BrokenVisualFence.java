@@ -50,7 +50,7 @@ public class BrokenVisualFence {
           break;
         default:
       }
-      System.out.println("How much do you want to multiplicate the movement?");
+      System.out.println("How much do you want to muicate the movement?");
       System.out.print("?: ");
       usedA = input.nextInt();
 
